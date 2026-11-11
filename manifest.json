@@ -1,7 +1,7 @@
 {
-  "fw_url": "https://raw.githubusercontent.com/Astute4185/tubeszb_mgm210_firmware/main/tubeszb_mgm210_zigbee_ncp_rtscts_9.1.2.0.gbl",
-  "md5": "adf6536d598e039aef61fc54585648a1",
-  "size": 249348,
+  "fw_url": "https://raw.githubusercontent.com/Astute4185/tubeszb_mgm210_firmware/main/tubeszb_mgm210_zigbee_ncp_vendor_uart_test_9.1.2.0.gbl",
+  "md5": "7505c3cfb6896c984fa352a407c75683",
+  "size": 249292,
   "baudrate": 115200,
   "version": "9.1.2.0"
 }
